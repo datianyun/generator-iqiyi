@@ -1,0 +1,4 @@
+node_modules
+<% if (includeSass) { %>
+.sass-cache<% } %>
+bower_components
